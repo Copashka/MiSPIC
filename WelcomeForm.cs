@@ -16,5 +16,11 @@ namespace MiSPIC
         {
             InitializeComponent();
         }
+
+        private void AdminPanelButton_Click(object sender, EventArgs e)
+        {
+            AdminPanelForm adminPanelForm = new AdminPanelForm();
+            adminPanelForm.Show();
+        }
     }
 }

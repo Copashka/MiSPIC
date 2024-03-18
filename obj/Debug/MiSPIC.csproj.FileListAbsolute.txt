@@ -10,3 +10,4 @@ D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.pdb
 D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase.mdf
 D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase_log.ldf
 D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.WelcomeForm.resources
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.AdminPanelForm.resources

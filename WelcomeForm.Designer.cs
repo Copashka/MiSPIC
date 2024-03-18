@@ -89,6 +89,7 @@
             this.AdminPanelButton.TabIndex = 5;
             this.AdminPanelButton.Text = "AdminPanel";
             this.AdminPanelButton.UseVisualStyleBackColor = true;
+            this.AdminPanelButton.Click += new System.EventHandler(this.AdminPanelButton_Click);
             // 
             // WelcomeForm
             // 

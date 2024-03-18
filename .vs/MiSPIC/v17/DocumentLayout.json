@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\githubRepositories\\MiSPIC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|d:\\githubrepositories\\mispic\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|d:\\githubrepositories\\mispic\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|solutionrelative:adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|d:\\githubrepositories\\mispic\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D9C301F-6312-45FD-BD99-D41E64FC091F}|MiSPIC.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\githubRepositories\\MiSPIC\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "AdminPanelForm.cs",
+              "ToolTip": "D:\\githubRepositories\\MiSPIC\\AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:32:13.817Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\githubRepositories\\MiSPIC\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "D:\\githubRepositories\\MiSPIC\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:28:30.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\githubRepositories\\MiSPIC\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "WelcomeForm.cs",
