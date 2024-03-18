@@ -1,0 +1,12 @@
+D:\githubRepositories\MiSPIC\bin\Debug\MiSPIC.exe.config
+D:\githubRepositories\MiSPIC\bin\Debug\MiSPIC.exe
+D:\githubRepositories\MiSPIC\bin\Debug\MiSPIC.pdb
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.csproj.AssemblyReference.cache
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.Properties.Resources.resources
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.csproj.GenerateResource.cache
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.csproj.CoreCompileInputs.cache
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.exe
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.pdb
+D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase.mdf
+D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase_log.ldf
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.WelcomeForm.resources
