@@ -7,7 +7,7 @@ D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.csproj.GenerateResource.cache
 D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.csproj.CoreCompileInputs.cache
 D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.exe
 D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.pdb
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.WelcomeForm.resources
+D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.AdminUsersPanelForm.resources
 D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase.mdf
 D:\githubRepositories\MiSPIC\bin\Debug\FrogmoneyCasinoDatabase_log.ldf
-D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.WelcomeForm.resources
-D:\githubRepositories\MiSPIC\obj\Debug\MiSPIC.AdminPanelForm.resources

@@ -80,6 +80,7 @@
             this.LoginButton.TabIndex = 4;
             this.LoginButton.Text = "Login | Register";
             this.LoginButton.UseVisualStyleBackColor = true;
+            this.LoginButton.Click += new System.EventHandler(this.LoginButton_Click);
             // 
             // AdminPanelButton
             // 

@@ -63,11 +63,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminPanelForm.cs">
+    <Compile Include="AdminUsersPanelForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdminPanelForm.Designer.cs">
-      <DependentUpon>AdminPanelForm.cs</DependentUpon>
+    <Compile Include="AdminUsersPanelForm.Designer.cs">
+      <DependentUpon>AdminUsersPanelForm.cs</DependentUpon>
     </Compile>
     <Compile Include="FrogmoneyCasinoDatabaseDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -82,8 +82,8 @@
     <Compile Include="WelcomeForm.Designer.cs">
       <DependentUpon>WelcomeForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AdminPanelForm.resx">
-      <DependentUpon>AdminPanelForm.cs</DependentUpon>
+    <EmbeddedResource Include="AdminUsersPanelForm.resx">
+      <DependentUpon>AdminUsersPanelForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -126,8 +126,8 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="FrogmoneyCasinoDatabase_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>FrogmoneyCasinoDatabase.mdf</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>
